@@ -1,0 +1,22 @@
+{
+  "name": "caterpillar-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfpebrizal/caterpillar-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfpebrizal/caterpillar-1/issues"
+  },
+  "homepage": "https://github.com/mfpebrizal/caterpillar-1#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.0"
+  }
+}
