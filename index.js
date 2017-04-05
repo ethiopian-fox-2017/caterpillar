@@ -5,6 +5,6 @@ var tail = require('./lib/tail');
 var flatten = require('./lib/flatten')
 
 
-var array = [[0, 1], [2, 3], [4, 5]];
-console.log(flatten(array));
+var array = [,1,2,3,4,5];
+console.log(isEmpty(array));
 
